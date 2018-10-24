@@ -1,0 +1,49 @@
+{
+  "projectName" : "Associations Application",
+  "heading":
+  [
+    {
+      "name": "About Us"
+    },
+    {
+      "name": "Membership"
+    },
+    {
+      "name": "Leadership"
+    },
+    {
+      "name": "Activities"
+    },
+    {
+      "name": "Events"
+    },
+    {
+      "name": "Media"
+    },
+    {
+      "name": "Get Involved"
+    }
+  ,
+    {
+      "name": "Contact Us"
+    } ],
+  "childData":
+  [
+    {
+      "headingName": "About Us",
+      "childname": "By Laws"
+    },
+    {
+      "headingName": "About Us",
+      "childname": "Our History"
+    } ,
+    {
+      "headingName": "About Us",
+      "childname": "Association History at Glance"
+    }
+  ,
+    {
+      "headingName": "About Us",
+      "childname": "History of Telugus"
+    }  ]
+}
